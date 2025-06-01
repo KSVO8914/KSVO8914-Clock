@@ -1,2 +1,2 @@
 # KSVO8914-Clock
-An clock program
+A clock program
